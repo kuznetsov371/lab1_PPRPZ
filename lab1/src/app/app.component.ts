@@ -4,4 +4,5 @@ let message: string = 'Hello, World!';
 console.log(message);
 
 
-// Hello master
+// Hello master!
+
