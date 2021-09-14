@@ -1,10 +1,3 @@
-import { Component } from '@angular/core';
+let message: string = 'Hello, World!';
+console.log(message);
 
-@Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
-})
-export class AppComponent {
-  title = 'lab1';
-}
